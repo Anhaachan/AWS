@@ -7,3 +7,5 @@ Amazon Web Service
 
 I have included the book files that you need after viewing on the learning sites.
 
+## Project Idea 1: 
+- Simple website using S3, cloudfront, Route 53
